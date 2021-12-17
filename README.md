@@ -30,7 +30,7 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------| -----------------------------------|
 | 1 to 11      | Adobe Photoshop Elements 2022                     | Windows, Mac OS X, and Linux (Any) |
 
-You can also download the color images of the screenshots/diagrams using this link: [Click here to download it](https://static.packt-cdn.com/downloads/9781800566996_ColorImages.zip).
+You can also download the color images of the screenshots/diagrams using this link: [Click here to download it](https://static.packt-cdn.com/downloads/9781803238241_ColorImages.zip).
 
 ### Related products <Other books you may enjoy>
 * Adobe Animate 2022 for Creative Professionals - Second Edition [[Packt]](https://www.packtpub.com/product/adobe-animate-2022-for-creative-professionals-second-edition/9781803232799) [[Amazon]](https://www.amazon.com/dp/180323279X)
