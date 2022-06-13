@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B18144?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Mastering Adobe Photoshop Elements 2022 - Fourth Edition
 
 <a href="https://www.packtpub.com/product/mastering-adobe-photoshop-elements-2022-fourth-edition/9781803238241"><img src="https://static.packt-cdn.com/products/9781803238241/cover/smaller" alt="Mastering Adobe Photoshop Elements 2022 - Fourth Edition" height="256px" align="right"></a>
