@@ -45,3 +45,7 @@ Born in the UK, has always had a great love for recording the world with a camer
 * [Mastering Adobe Photoshop Elements 2021 - Third Edition](https://www.packtpub.com/product/mastering-adobe-photoshop-elements-2021-third-edition/9781800566996)
 * [Mastering Adobe Photoshop Elements 2020 - Second Edition](https://www.packtpub.com/product/mastering-adobe-photoshop-elements-2020-second-edition/9781800204201)
 * [Mastering Adobe Photoshop Elements](https://www.packtpub.com/product/mastering-adobe-photoshop-elements/9781789808155)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803238241">https://packt.link/free-ebook/9781803238241 </a> </p>
